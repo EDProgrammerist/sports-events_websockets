@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="" target="_blank">
-      <img src="" alt="Project Banner">
+      <img src="https://github.com/EDProgrammerist/sports-events_websockets/blob/master/public/readme/Thumbmail.jpg?raw=true" alt="Project Banner">
     </a>
   <br /> 
 
